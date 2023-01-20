@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MODULE 1 JAVA/ARRAYS/ARRAYS.iml" filepath="$PROJECT_DIR$/MODULE 1 JAVA/ARRAYS/ARRAYS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CLASS AND OBJECT/COMPARATOR/COMPARATOR.iml" filepath="$PROJECT_DIR$/CLASS AND OBJECT/COMPARATOR/COMPARATOR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CLASS AND OBJECT/DATA HIDING AND ENCAPSULATION/DATA HIDING AND ENCAPSULATION.iml" filepath="$PROJECT_DIR$/CLASS AND OBJECT/DATA HIDING AND ENCAPSULATION/DATA HIDING AND ENCAPSULATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA 29_8/DSA 29_8.iml" filepath="$PROJECT_DIR$/DSA 29_8/DSA 29_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ELEVATOR_PROGRAM/ELEVATOR_PROGRAM.iml" filepath="$PROJECT_DIR$/ELEVATOR_PROGRAM/ELEVATOR_PROGRAM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FUNCTIONSANDMETHODS/FUNCTIONSANDMETHODS.iml" filepath="$PROJECT_DIR$/FUNCTIONSANDMETHODS/FUNCTIONSANDMETHODS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CLASS AND OBJECT/GENERICS/GENERICS.iml" filepath="$PROJECT_DIR$/CLASS AND OBJECT/GENERICS/GENERICS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI_BRO-CODE/GUI_BRO-CODE.iml" filepath="$PROJECT_DIR$/GUI_BRO-CODE/GUI_BRO-CODE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SWING/GUI_JAVA.iml" filepath="$PROJECT_DIR$/SWING/GUI_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CLASS AND OBJECT/INHERITANCE/INHERITANCE.iml" filepath="$PROJECT_DIR$/CLASS AND OBJECT/INHERITANCE/INHERITANCE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA DSA/JAVA DSA.iml" filepath="$PROJECT_DIR$/JAVA DSA/JAVA DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_GUI_LEC_16_11_22/JAVA_GUI_LEC_16_11_22.iml" filepath="$PROJECT_DIR$/JAVA_GUI_LEC_16_11_22/JAVA_GUI_LEC_16_11_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LEC 10_10_22/LEC 10_10_22_exception.iml" filepath="$PROJECT_DIR$/LEC 10_10_22/LEC 10_10_22_exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LEC_14_10_22/LEC_14_10_22.iml" filepath="$PROJECT_DIR$/LEC_14_10_22/LEC_14_10_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LEC_17_10_22/LEC_17_10_22_FileHandling.iml" filepath="$PROJECT_DIR$/LEC_17_10_22/LEC_17_10_22_FileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LEC_19_10_22/LEC_19_10_22_Buffered_reader.iml" filepath="$PROJECT_DIR$/LEC_19_10_22/LEC_19_10_22_Buffered_reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LEC_30_10_22/LEC_1_11_22_synchronized_thread.iml" filepath="$PROJECT_DIR$/LEC_30_10_22/LEC_1_11_22_synchronized_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LEC_4_11_22_THREAD/LEC_4_11_22_THREAD_PROD_CONS.iml" filepath="$PROJECT_DIR$/LEC_4_11_22_THREAD/LEC_4_11_22_THREAD_PROD_CONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MODULE 1 JAVA/MODULE 1 JAVA.iml" filepath="$PROJECT_DIR$/MODULE 1 JAVA/MODULE 1 JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MODULE 2 JAVA CLASS/MODULE 2 JAVA CLASS.iml" filepath="$PROJECT_DIR$/MODULE 2 JAVA CLASS/MODULE 2 JAVA CLASS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MODULE 3/MODULE 3.iml" filepath="$PROJECT_DIR$/MODULE 3/MODULE 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MODULE 4/MODULE 4.iml" filepath="$PROJECT_DIR$/MODULE 4/MODULE 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NISHANT SIR JAVA/NISHANT SIR JAVA.iml" filepath="$PROJECT_DIR$/NISHANT SIR JAVA/NISHANT SIR JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CLASS AND OBJECT/OOPS.iml" filepath="$PROJECT_DIR$/CLASS AND OBJECT/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CLASS AND OBJECT/POLYMORPHISM/POLYMORPHISM.iml" filepath="$PROJECT_DIR$/CLASS AND OBJECT/POLYMORPHISM/POLYMORPHISM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PUZZLE_GUI/PUZZLE_GUI.iml" filepath="$PROJECT_DIR$/PUZZLE_GUI/PUZZLE_GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STRINGS/STRINGS.iml" filepath="$PROJECT_DIR$/STRINGS/STRINGS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THEORY ASSIGNMENT/THEORY ASSIGNMENT.iml" filepath="$PROJECT_DIR$/THEORY ASSIGNMENT/THEORY ASSIGNMENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THREADSINJAVA/THREADSINJAVA.iml" filepath="$PROJECT_DIR$/THREADSINJAVA/THREADSINJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.Aniket.iml" filepath="$PROJECT_DIR$/com.Aniket.iml" />
+    </modules>
+  </component>
+</project>
